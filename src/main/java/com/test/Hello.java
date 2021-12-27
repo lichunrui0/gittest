@@ -7,5 +7,8 @@ public class Hello {
         System.out.println("hello git 3");
         System.out.println("hello git4 ");
         System.out.println("hello git5 ");
+        System.out.println("hello _new Leaf9");
+        System.out.println("hello+new leaf10");
+        System.out.println("c2操作");
     }
 }
